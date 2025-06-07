@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Identity: Jatin Prajapat  <br>+ Role: Final Year CSE Student | Digital Marketing Specialist | AI Enthusiast  <br>+ Location: India
+# + Identity: Jatin Prajapat  <br>+ Role: Freelancer | Digital Marketing Specialist | AI Enthusiast  <br>+ Location: India
 
 
 ## 🌐 Socials:
