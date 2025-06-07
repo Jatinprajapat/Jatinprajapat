@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Greetings, Operator<br><br>+ System online.  <br>+ Identity: Jatin Prajapat  <br>+ Role: Final Year CSE Student | Digital Marketing Specialist | AI Enthusiast  <br>+ Location: India
++ Identity: Jatin Prajapat  <br>+ Role: Final Year CSE Student | Digital Marketing Specialist | AI Enthusiast  <br>+ Location: India
 
 
 ## 🌐 Socials:
